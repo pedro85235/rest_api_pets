@@ -1,0 +1,21 @@
+{
+  "name": "rest_api_pets",
+  "version": "1.0.0",
+  "description": "API para acesso aos Pets",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro85235/rest_api_pets.git"
+  },
+  "keywords": [],
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro85235/rest_api_pets/issues"
+  },
+  "homepage": "https://github.com/pedro85235/rest_api_pets#readme"
+}
